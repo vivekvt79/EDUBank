@@ -1,0 +1,1 @@
+java -cp D:\Automation\SeleniumAdvanced_Workspace\SeleniumGitJenkinsProject\bin;lib/* org.testng.TestNG VerifyLoginTesttestng.xml

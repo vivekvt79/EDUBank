@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="58083" started-at="2020-09-26T23:32:11 IST" finished-at="2020-09-26T23:33:10 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="58083" started-at="2020-09-26T23:32:11 IST" finished-at="2020-09-26T23:33:10 IST">
+      <class name="com.EDUbank.Tests.VerifyLoginTest">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.EDUbank.Tests.VerifyLoginTest@1c57baf7]" name="beforeMethod" is-config="true" duration-ms="48102" started-at="2020-09-26T23:32:12 IST" finished-at="2020-09-26T23:33:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="test()[pri:0, instance:com.EDUbank.Tests.VerifyLoginTest@1c57baf7]" name="test" duration-ms="3605" started-at="2020-09-26T23:33:00 IST" finished-at="2020-09-26T23:33:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.EDUbank.Tests.VerifyLoginTest@1c57baf7]" name="afterMethod" is-config="true" duration-ms="6266" started-at="2020-09-26T23:33:03 IST" finished-at="2020-09-26T23:33:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.EDUbank.Tests.VerifyLoginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
